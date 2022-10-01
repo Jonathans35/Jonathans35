@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Stanley
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning stuffs related to data 
+- 👀 I’m a huge data enthusiast
+- 🌱 I’m currently a final year student majoring in Actual Science at University of Indonesia
 - 📫 How to reach me : jonathanstanleyofficial@gmail.com
 
 <!---
